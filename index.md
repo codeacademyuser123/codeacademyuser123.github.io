@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Shiva's World
 
 You can use the [editor on GitHub](https://github.com/codeacademyuser123/codeacademyuser123.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Shiva](http://r.ddmcdn.com/s_f/o_1/cx_633/cy_0/cw_1725/ch_1725/w_720/APL/uploads/2014/11/too-cute-doggone-it-video-playlist.jpg)
+![Shiva](C:\Users\ed\desktop\html\dali.jpg)
 
 ### Markdown
 
