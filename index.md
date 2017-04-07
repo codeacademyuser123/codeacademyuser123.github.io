@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/codeacademyuser123/codeaca
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Shiva](C:\Users\ed\desktop\html\dali.jpg)
+![Shiva](C:\Users\Ed\Desktop\html\dali.jpg)
 
 ### Markdown
 
